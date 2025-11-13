@@ -97,3 +97,5 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+Assets/External Assets/AllSkyFree/Cold Sunset/Cold Sunset Equirect.png
+Assets/Import/stone/stone.fbx
